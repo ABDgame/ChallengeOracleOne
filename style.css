@@ -5,7 +5,6 @@ width: 1440px;
 height: 1024px;
 
 /* Light blue/light-blue-100 */
-
 background: #F3F5FC;
 
 /* -- Ellipse 6 -- */
@@ -25,56 +24,45 @@ width: 336px;
 height: 48px;
 left: 0px;
 top: 74px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
-/* or 24px */
 
+/* or 24px */
 text-align: center;
 
 /* Gray/gray-400 */
-
 color: #495057;
 
 
 /* Inside auto layout */
-
 flex: none;
 order: 1;
 align-self: stretch;
 flex-grow: 0;
 margin: 16px 0px;
-
-
-
 /* Nenhuma mensagem encontrada */
-
-
 position: static;
 width: 336px;
 height: 58px;
 left: 0px;
 top: 0px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 700;
 font-size: 24px;
 line-height: 120%;
-/* or 29px */
 
+/* or 29px */
 text-align: center;
 
 /* Gray/gray-500 */
-
 color: #343A40;
 
 
 /* Inside auto layout */
-
 flex: none;
 order: 0;
 align-self: stretch;
@@ -83,16 +71,91 @@ margin: 16px 0px;
 
 
 /* -- High quality products 11 --  */
-/* --- Vector --- */
+/* --- 1º Vector --- */
 position: absolute;
 left: 51.8%;
 right: 43.38%;
 top: 20.72%;
 bottom: 75.47%;
+background: #000000;
 
+/* --- 2º Vector --- */
+position: absolute;
+left: 51.59%;
+right: 42.56%;
+top: 18.23%;
+bottom: 77.85%;
 background: #000000;
 
 
+/* Rectangle 1 */
+position: absolute;
+width: 400px;
+height: 944px;
+left: 1000px;
+top: 40px;
+
+
+/* White */
+background: #FFFFFF;
+
+/* shadow */
+box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+border-radius: 32px;
+
+
+/* --  Frame 1 --  */
+/* Apenas letras minúsculas e sem acento. */
+position: static;
+width: 228px;
+height: 18px;
+left: 24px;
+top: 0px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+/* Gray/gray-400 */
+color: #495057;
+opacity: 0.8;
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 8px;
+
+/* Vector */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+/* Gray/gray-400 */
+background: #495057;
+
+
+/* -- Frame 3 -- */
+/* Button */
+position: static;
+width: 280px;
+height: 19px;
+left: 24px;
+top: 24px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+/* Dark blue/dark-blue-300 */
+color: #0A3871;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px 8px;
 
 /* Decodificador - 2 Desktop*/
 
