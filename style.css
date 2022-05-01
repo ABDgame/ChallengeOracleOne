@@ -1,12 +1,14 @@
 /* Decodificador - 1 Desktop */
 /* --  Frame 6 -- */
+body
+{
 position: relative;
 width: 1440px;
 height: 1024px;
 
 /* Light blue/light-blue-100 */
 background: #F3F5FC;
-
+}
 /* -- Ellipse 6 -- */
 position: absolute;
 left: 0%;
