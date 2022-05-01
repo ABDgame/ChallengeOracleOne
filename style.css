@@ -157,7 +157,100 @@ order: 0;
 flex-grow: 1;
 margin: 0px 8px;
 
+/* Button */
+position: static;
+width: 280px;
+height: 19px;
+left: 24px;
+top: 24px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px 8px;
+
+
+/* Digite seu texto */
+position: absolute;
+width: 680px;
+height: 48px;
+left: 240px;
+top: 168px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+
+/* Dark blue/dark-blue-300 */
+color: #0A3871;
+
+/* Rectangle 1 */
+position: absolute;
+width: 400px;
+height: 944px;
+left: 1000px;
+top: 40px;
+/* White */
+background: #FFFFFF;
+/* shadow */
+box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+border-radius: 32px;
+
+
 /* Decodificador - 2 Desktop*/
+/* -- Frame 1 --*/
+/* Apenas letras minúsculas e sem acento. */
+position: static;
+width: 228px;
+height: 18px;
+left: 24px;
+top: 0px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+
+/* identical to box height, or 18px */
+/* Gray/gray-400 */
+color: #495057;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 8px;
+
+/* Vector */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+/* Gray/gray-400 */
+background: #495057;
+
+/* -- Frame 6 --*/
+
+/* -- Button --*/
+
+/* -- Frame 3 --*/
+
+
 
 /* Decodificador - 1 Tablet*/
 
