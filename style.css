@@ -1535,6 +1535,165 @@ line-height: 150%;
 color: #0A3871;
 
 
+/* Menu */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+
+position: absolute;
+visibility: hidden;
+width: 176px;
+height: 120px;
+left: 552px;
+top: 40px;
+
+background: rgba(255, 255, 255, 0.24);
+border-radius: 800px;
+
+
+/* List */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px;
+
+position: static;
+width: 128px;
+height: 72px;
+left: 24px;
+top: 24px;
+
+/* White */
+
+background: #FFFFFF;
+border-radius: 800px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 10px 0px;
+
+
+/* Page icon */
+
+
+position: static;
+width: 40px;
+height: 40px;
+left: 72px;
+top: 16px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* ES */
+
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 20%;
+bottom: 20%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+text-align: center;
+
+/* Dark blue/dark-blue-300 */
+
+color: #0A3871;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+/* Page icon */
+
+
+position: static;
+width: 40px;
+height: 40px;
+left: 16px;
+top: 16px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* PT */
+
+
+position: absolute;
+left: 25%;
+right: 22.5%;
+top: 20%;
+bottom: 20%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+text-align: center;
+
+/* White */
+
+color: #FFFFFF;
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+
+
+
+
+
 /* Decodificador - 1 Celular*/
 
 /* Decodificador - 2 Celular*/
