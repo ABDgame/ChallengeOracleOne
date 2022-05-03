@@ -1692,9 +1692,234 @@ background: #0A3871;
 
 
 
+/* Menu */
 
 
-/* Decodificador - 1 Celular*/
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+
+position: absolute;
+visibility: hidden;
+width: 176px;
+height: 120px;
+left: 336px;
+top: 40px;
+
+background: rgba(255, 255, 255, 0.24);
+border-radius: 800px;
+
+
+/* List */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px;
+
+position: static;
+width: 128px;
+height: 72px;
+left: 24px;
+top: 24px;
+
+/* White */
+
+background: #FFFFFF;
+border-radius: 800px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 10px 0px;
+
+
+/* Page icon */
+
+
+position: static;
+width: 40px;
+height: 40px;
+left: 72px;
+top: 16px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+
+/* mdi:head-outline */
+
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 20%;
+bottom: 20%;
+
+/* Vector */
+
+
+position: absolute;
+left: 8.55%;
+right: 8.33%;
+top: 4.17%;
+bottom: 4.17%;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+
+/* Ellipse 8 */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Page icon */
+
+
+position: static;
+width: 40px;
+height: 40px;
+left: 16px;
+top: 16px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+/* carbon:text-small-caps */
+
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 20%;
+bottom: 20%;
+
+/* Vector */
+
+
+position: absolute;
+left: 6.25%;
+right: 31.25%;
+top: 18.75%;
+bottom: 15.62%;
+
+/* White */
+
+background: #FFFFFF;
+
+/* Vector */
+
+
+position: absolute;
+left: 56.25%;
+right: 6.25%;
+top: 40.62%;
+bottom: 15.62%;
+
+/* White */
+
+background: #FFFFFF;
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+
+
+/* Group 3 */
+
+
+position: absolute;
+width: 31.09px;
+height: 49.03px;
+left: 40px;
+top: 74.97px;
+
+
+/* Vector */
+
+
+position: absolute;
+left: 5.21%;
+right: 90.74%;
+top: 5.42%;
+bottom: 91.16%;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 31px;
+height: 48px;
+left: 40px;
+top: 76px;
+
+background: #E9ECF8;
+
+
+
+/* Decodificador - 1 Celular */
+
+
+position: relative;
+width: 375px;
+height: 933px;
+
+/* Light blue/light-blue-100 */
+
+background: #F3F5FC;
+/* Header */
+/*-- Top --*/
+/* Vector */
+position: absolute;
+left: 4.27%;
+right: 87.2%;
+top: 25%;
+bottom: 25%;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+/* Frame 5 */
+/* Frame 1 */
+/* Frame 3 */
+
+
 
 /* Decodificador - 2 Celular*/
 
