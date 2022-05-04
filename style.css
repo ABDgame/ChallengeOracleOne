@@ -2620,4 +2620,233 @@ color: #0A3871;
 
 /* Decodificador - 2 Celular*/
 
+position: relative;
+width: 375px;
+height: 1715px;
+/* Light blue/light-blue-100 */
+background: #F3F5FC;
+
+/* Group 7*/
+position: absolute;
+width: 30.43px;
+height: 48.03px;
+left: 16px;
+top: 23.97px;
+
+
+/* Group 6 */
+
+
+position: absolute;
+visibility: hidden;
+width: nanpx;
+height: nanpx;
+left: 311px;
+top: 24px;
+
+
+/* Group 5 */
+
+
+position: absolute;
+width: 45px;
+height: 34px;
+left: 312px;
+top: 31px;
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 29px;
+height: 6px;
+left: 312px;
+top: 59px;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+border-radius: 8px;
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 37px;
+height: 6px;
+left: 312px;
+top: 45px;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+border-radius: 8px;
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 45px;
+height: 6px;
+left: 312px;
+top: 31px;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+border-radius: 8px;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 311px;
+top: 24px;
+
+
+/* Group 3 */
+
+
+position: absolute;
+width: 30.43px;
+height: 48.03px;
+left: 16px;
+top: 23.97px;
+
+
+/* Vector */
+
+
+position: absolute;
+left: 4.27%;
+right: 87.62%;
+top: 1.4%;
+bottom: 95.91%;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 30.35px;
+height: 46.95px;
+left: 16px;
+top: 25.05px;
+
+background: #E9ECF8;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Orci montes, sit et diam risus scelerisque vitae est. Tortor maecenas nunc ut laoreet. Eget diam mauris quam quisque ut eget fringilla sit elit. Libero, sodales duis fames id diam feugiat aliquet non egestas. */
+
+
+position: absolute;
+width: 343px;
+height: 624px;
+left: 16px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 150%;
+/* or 48px */
+
+
+color: #0A3871;
+
+/* Frame 1 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 252px;
+height: 18px;
+left: 16px;
+top: 840px;
+
+
+/* Apenas letras minúsculas e sem acento. */
+
+
+position: static;
+width: 228px;
+height: 18px;
+left: 24px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+
+
+color: #67808E;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 8px;
+
+
+/* bi:exclamation-circle-fill */
+
+
+position: static;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 1px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 8px;
+
+
+/* Group */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+/* Vector */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #67808E;
+
 
