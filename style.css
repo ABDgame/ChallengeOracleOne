@@ -31,20 +31,20 @@ background: #0A3871;
 
 #input-original
 {
-position: static;
-width: 336px;
-height: 48px;
-left: 0px;
-top: 74px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-/* or 24px */
-text-align: center;
-/* Gray/gray-400 */
-color: #495057;
+  position: static;
+  width: 336px;
+  height: 48px;
+  left: 0px;
+  top: 74px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  /* or 24px */
+  text-align: center;
+  /* Gray/gray-400 */
+  color: #495057;
 }
 
 /* Inside auto layout */
