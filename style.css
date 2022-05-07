@@ -29,9 +29,8 @@ bottom: 0%;
 background: #0A3871;
 }
 
-#Frame 5
+#input-original
 {
-/* Digite um texto que você deseja criptografar ou descriptografar. */
 position: static;
 width: 336px;
 height: 48px;
