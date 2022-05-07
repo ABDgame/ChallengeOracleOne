@@ -147,7 +147,8 @@ background: #495057;
 
 
 /* -- Frame 3 -- */
-/* Button */
+#button1
+{
 position: static;
 width: 280px;
 height: 19px;
@@ -166,8 +167,10 @@ flex: none;
 order: 0;
 flex-grow: 1;
 margin: 0px 8px;
+}
 
-/* Button */
+#button2
+{
 position: static;
 width: 280px;
 height: 19px;
@@ -179,19 +182,17 @@ font-weight: 400;
 font-size: 16px;
 line-height: 19px;
 text-align: center;
-
 /* White */
 color: #FFFFFF;
-
-
 /* Inside auto layout */
 flex: none;
 order: 0;
 flex-grow: 1;
 margin: 0px 8px;
-
+}
 
 /* Digite seu texto */
+#input-original{
 position: absolute;
 width: 680px;
 height: 48px;
@@ -203,10 +204,8 @@ font-weight: 400;
 font-size: 32px;
 line-height: 150%;
 /* identical to box height, or 48px */
-
 /* Dark blue/dark-blue-300 */
 color: #0A3871;
-
 /* Rectangle 1 */
 position: absolute;
 width: 400px;
@@ -218,7 +217,7 @@ background: #FFFFFF;
 /* shadow */
 box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
 border-radius: 32px;
-
+}
 
 /* Decodificador - 2 Desktop*/
 /* -- Frame 1 --*/
