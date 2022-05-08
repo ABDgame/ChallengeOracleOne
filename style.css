@@ -19,7 +19,7 @@ body
   background-color: hsl(240, 3%, 7%);
 }
 
-vector
+.vector
 {
 position: absolute;
 left: 36.67%;
@@ -29,7 +29,7 @@ bottom: 0%;
 background: #ffffff;
 }
 
- digitexto
+ .digitexto
 {
   position: static;
   width: 336px;
@@ -47,7 +47,7 @@ background: #ffffff;
   color: #495057;
 }
 
-textonao
+.textonao
 {
 flex: none;
 order: 1;
@@ -90,6 +90,7 @@ bottom: 75.47%;
 background: #000000;
 
 /* --- 2º Vector --- */
+
 position: absolute;
 left: 51.59%;
 right: 42.56%;
@@ -98,7 +99,7 @@ bottom: 77.85%;
 background: #000000;
 
 
-rectangle
+.rectangle
 {
 position: absolute;
 width: 400px;
@@ -113,7 +114,7 @@ border-radius: 32px;
 }
 
 /* --  Frame 1 --  */
-h1 
+.h1 
 {
 position: static;
 width: 228px;
@@ -147,7 +148,7 @@ background: #495057;
 
 
 /* -- Frame 3 -- */
- btn1
+ .btn1
 {
   display: flex;
   flex-direction: row;
@@ -173,7 +174,7 @@ background: #495057;
   margin: 0px 24px;
 }
 
- btn2
+ .btn2
 {
  box-sizing: border-box;
 
@@ -208,7 +209,7 @@ margin: 0px 24px;
 
 
 
- btn3
+ .btn3
 {
 box-sizing: border-box;
 
@@ -235,7 +236,7 @@ border-radius: 24px;
 
 
 /* Digite seu texto */
- input-original
+ .input-original
 {
 position: absolute;
 width: 680px;
