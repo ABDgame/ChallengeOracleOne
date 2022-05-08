@@ -29,7 +29,7 @@ bottom: 0%;
 background: #0A3871;
 }
 
-#input-original
+ textarea
 {
   position: static;
   width: 336px;
