@@ -149,7 +149,7 @@ background: #495057;
 
 
 /* -- Frame 3 -- */
-#button1
+#btn1
 {
   display: flex;
   flex-direction: row;
@@ -175,7 +175,7 @@ background: #495057;
   margin: 0px 24px;
 }
 
-#button2
+#btn2
 {
  box-sizing: border-box;
 
@@ -210,7 +210,7 @@ margin: 0px 24px;
 
 
 
-#button3
+#btn3
 {
 box-sizing: border-box;
 
