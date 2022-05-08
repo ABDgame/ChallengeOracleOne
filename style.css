@@ -29,7 +29,7 @@ bottom: 0%;
 background: #ffffff;
 }
 
- textarea
+ digitexto
 {
   position: static;
   width: 336px;
@@ -47,13 +47,13 @@ background: #ffffff;
   color: #495057;
 }
 
-/* Inside auto layout */
+digitexto
+{
 flex: none;
 order: 1;
 align-self: stretch;
 flex-grow: 0;
 margin: 16px 0px;
-/* Nenhuma mensagem encontrada */
 position: static;
 width: 336px;
 height: 58px;
@@ -78,7 +78,7 @@ order: 0;
 align-self: stretch;
 flex-grow: 0;
 margin: 16px 0px;
-
+}
 
 /* -- High quality products 11 --  */
 /* --- 1º Vector --- */
