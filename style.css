@@ -98,21 +98,19 @@ bottom: 77.85%;
 background: #000000;
 
 
-/* Rectangle 1 */
+rectangle
+{
 position: absolute;
 width: 400px;
 height: 944px;
 left: 1000px;
 top: 40px;
-
-
 /* White */
 background: #FFFFFF;
-
 /* shadow */
 box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
 border-radius: 32px;
-
+}
 
 /* --  Frame 1 --  */
 /* Apenas letras minúsculas e sem acento. */
@@ -226,9 +224,7 @@ width: 336px;
 height: 67px;
 left: 1032px;
 top: 885px;
-
 /* Dark blue/dark-blue-300 */
-
 border: 1px solid #0A3871;
 border-radius: 24px;
 }
@@ -239,7 +235,7 @@ border-radius: 24px;
 
 
 /* Digite seu texto */
-#input-original
+ input-original
 {
 position: absolute;
 width: 680px;
