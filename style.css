@@ -173,8 +173,7 @@ background: #495057;
   flex-grow: 0;
   margin: 0px 24px;
 }
-
- .btn2
+ .descriptografar-texto
 {
  box-sizing: border-box;
 
@@ -209,7 +208,7 @@ margin: 0px 24px;
 
 
 
- .btn3
+ .copiar-texto
 {
 box-sizing: border-box;
 
